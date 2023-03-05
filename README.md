@@ -4,6 +4,9 @@
 
 - The project is written on simple logic that take input as string, and operate them accordingly, whole code is just a bit use of switch-case.
 - It also helps to maintain a short history of calculations and one can get rid of them by tapping on "AC" button.
+- Learnt about state-management using StateFul widgets, and setState() function.
+- Type-casting has been used extensively and that gave me a clear understanding of types of variables and their declaration.
+- Also helped in understanding and making a proper connection between the UI and the functions.
 
 There's obviously a lot of scope for improvement, both UI and functioning wise..so it's open for those who want to contribute and make their first contributory project.
 
