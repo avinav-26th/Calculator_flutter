@@ -1,16 +1,16 @@
 # grocery_calculator
 
-A new Flutter project.
+### This is a Grocery Store Calculator app, one of the first projects while learning Flutter...
 
-## Getting Started
+- The project is written on simple logic that take input as string, and operate them accordingly, whole code is just a bit use of switch-case.
+- It also helps to maintain a short history of calculations and one can get rid of them by tapping on "AC" button.
 
-This project is a starting point for a Flutter application.
+There's obviously a lot of scope for improvement, both UI and functioning wise..so it's open for those who want to contribute and make their first contributory project.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Thanks !!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Here are some screeshots of the app:
+
+<img src="https://user-images.githubusercontent.com/79656610/222977545-032effd9-473c-4334-97c0-b0689d5fdb3a.png" alt="App Screenshots"/>
+<img src="https://user-images.githubusercontent.com/79656610/222977568-bac0005a-a3e6-4ed0-b40c-2466e80d7139.png" alt="App Screenshots"/>
